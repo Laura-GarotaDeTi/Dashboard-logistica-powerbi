@@ -16,5 +16,5 @@ Durante o desenvolvimento, passamos por algumas etapas importantes:
 🔹 Criação do layout no figma e importação para o Power BI como template.
 
 🔹Medidas Dax
-(imagens_dash/Dash1.png)
-(imagens_dash/Dash2.png)
+![Dashboard](imagens_dash/Dash1.png)
+![Dashboard](imagens_dash/Dash2.png)
